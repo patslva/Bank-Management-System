@@ -28,42 +28,52 @@ public class Account {
     }
 
     public String getCustomerPhoneNumber() {
+
         return CustomerPhoneNumber;
     }
 
     public void setCustomerPhoneNumber(String customerPhoneNumber) {
+
         CustomerPhoneNumber = customerPhoneNumber;
     }
 
     public String getCustomerEmail() {
+
         return CustomerEmail;
     }
 
     public void setCustomerEmail(String customerEmail) {
+
         CustomerEmail = customerEmail;
     }
 
     public double getBalance() {
+
         return Balance;
     }
 
     public void setBalance(double balance) {
+
         Balance = balance;
     }
 
     public String getCustomerName() {
+
         return CustomerName;
     }
 
     public void setCustomerName(String customerName) {
+
         CustomerName = customerName;
     }
 
     public String getNumber() {
+
         return Number;
     }
 
     public void setNumber(String number) {
+
         Number = number;
     }
 }
